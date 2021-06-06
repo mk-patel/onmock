@@ -1,7 +1,7 @@
 # onmock
 This project is mainly based on Education Application which provides notes and also takes test of the student. Here the user/student can evaluate their NEET entrance exam skills.
 
-#Advantages of this project:
+# Advantages of this project:
 
 On Mock demonstrate and evaluate NEET Entrance Exam skills.
 
